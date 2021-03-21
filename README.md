@@ -12,7 +12,7 @@ A project on building a custom deep learning model where the model will assist w
 
 Instructions: 
 1.  Clone directory
-2.  Refer to instructions in 
+2.  Refer to instructions in https://drive.google.com/drive/folders/1jBfdrcVBr_W9W_9y2-VTWXpgx7ctx2Z5?usp=sharing 
 3.  customCnn_1.py & customCnn_2.py: custom CNN models implemented for the small project. 
     customDataset_1.py & customDataset_2.py: custom datasets implemented for the small project.
     utils.py: common useful functions which are shared between both models.
